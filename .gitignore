@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+
+# Xcode build files
+build/
+DerivedData/
+
+# User-specific Xcode data
+xcuserdata/
+*.xcuserstate
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# CocoaPods (если будешь использовать)
+Pods/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+
+# Other
+*.orig
